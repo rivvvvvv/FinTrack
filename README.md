@@ -1,0 +1,2 @@
+# FinTrack
+Simple Expense Tracker
