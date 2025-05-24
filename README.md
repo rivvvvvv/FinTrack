@@ -21,7 +21,7 @@ Categorized transactions for better tracking
 
 1. Clone the repository
 git clone https://github.com/your-username/fintrack.git
-cd fintrack
+
 
 2. Install dependencies
 npm install
@@ -36,15 +36,3 @@ MONGODB_URI=your_mongodb_uri
 npm run dev
 
 
-📂 Folder Structure
-
-fintrack/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── utils/
-├── public/
-├── .env
-├── package.json
-└── README.md
