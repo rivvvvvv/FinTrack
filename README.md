@@ -8,7 +8,7 @@ Authentication: Clerk
 
 Database: MongoDB
 
-Backend: (Add details if you have one – e.g., Express, Node.js)
+Backend:  Express, Node.js
 
 🚀 Features
 User authentication via Clerk
